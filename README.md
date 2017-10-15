@@ -1,2 +1,3 @@
 # hello-world
-leaning git
+Learning GIT.
+This monkey knows nothing about branches
